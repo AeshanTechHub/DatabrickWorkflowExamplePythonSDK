@@ -28,7 +28,7 @@ from src.create_workflow_jobs import *
 
 # COMMAND ----------
 
-# DBTITLE 1,Configurations
+# DBTITLE 1,Add Configurations
 job_name = 'Add your job name here'
 job_timeout_seconds = 'Add the timeout in seconds here (integer type)'
 max_concurrent_runs = 'Add the max concurrent runs here (integer type)'
